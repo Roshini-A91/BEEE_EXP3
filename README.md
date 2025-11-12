@@ -1,8 +1,10 @@
 # BEEE_EXP3
-# EXPT NO: 3				STAIR CASE WIRING                     
+# STAIR CASE WIRING                     
 
+# NAME: ROSHINI A
+# REG.NO: 212224230233
  
-## AIM
+# AIM
  To control the status of the given lamp by using two–way switches. 
 APPARATUS REQUIRED:
 
@@ -20,13 +22,14 @@ Quantity
 7	Round block	-	1 No.
 
 
-## Theory:
+# Theory:
 •	A two way switch is installed near the first step of the stairs. The other two way switch is installed at the upper part where the stair ends.
 •	The light point is provided between first and last stair at an adequate location and height if the light is switched on by the lower switch. It can be switched off by the switch at the top or vice versa.
 •	The circuit can be used at the places like bed room where the person may  not  have  to  travel for switching off the light to the place from where the light is switched on.
 •	Two  numbers  of  two-way  switches  are  used  for  the  purpose.  The supply is given to the switch at the short circuited terminals.
-•	The  connection  to  the  light  point  is  taken  from  the  similar  short circuited  terminal  of  the   second  switch.   Order  two  independent terminals of each circuit are connected through  cables 
-## PROCEDURE
+•	The  connection  to  the  light  point  is  taken  from  the  similar  short circuited  terminal  of  the   second  switch.   Order  two  independent terminals of each circuit are connected through  cables
+
+# PROCEDURE
 •  Place the accessories on the wiring board as per the circuit diagram.
 •  Place the P.V.C pipe and insert two wires into the P.V.C pipe.
 •	Take one wire connect one end to the phase side and other end to the middle point of SPDT switch 1
@@ -38,7 +41,7 @@ switch2.
 •  Screw the accessories on the board and switch on the supply.
 •  Circuit is tested for all possible combination of switch positions.
 
-## Direct and Cross connection:
+# Direct and Cross connection:
 ![BEEE1](https://github.com/user-attachments/assets/01addfe6-8ad2-47d6-ba20-691b0bae87a2)
 ![BEEE2](https://github.com/user-attachments/assets/888160d5-10f5-4e15-ab9f-495c7b9ccb5e)
 ![BEEE3](https://github.com/user-attachments/assets/1a589342-8ca3-4fc4-b867-1acbcf508f8b)
@@ -46,18 +49,15 @@ switch2.
 ![BEEE5](https://github.com/user-attachments/assets/e6c77b8d-bcbb-4621-95cd-e23b3ef47c73)
 ![BEEE6](https://github.com/user-attachments/assets/671fabaf-dc88-4c6d-8294-42275a7b61b5)
 
-
-## Direct connection: CIRCUIT DIAGRAM: 
-Tabulation:1
+# CIRCUIT DIAGRAM:
+## Direct connection:  
 
 <img width="1216" height="845" alt="image" src="https://github.com/user-attachments/assets/4686b274-56fd-4ca8-959b-8a912d2f7c3c" />
-
 	
-Cross connection: CIRCUIT DIAGRAM:
-Tabulation:2
+## Cross connection: 
 
 <img width="1210" height="868" alt="image" src="https://github.com/user-attachments/assets/fa8c72c3-7873-49d6-bcc5-11d8cfdf3740" />
 
 
-## RESULT:
+# RESULT:
 Thus the staircase wiring is connected and tested.
